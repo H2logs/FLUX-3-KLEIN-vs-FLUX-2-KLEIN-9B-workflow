@@ -2,7 +2,9 @@
 I have built 2 workflows to benchmark FLUX 3 KLEIN and FLUX 2 KLEIN 9B.
 
 FLUX 3 KLEIN: int8.convrot
+
 FLUX 2 KLEIN 9B: FP8
+
 LLM with vision: QWEN 3.5
 
 Performance (1024x1024) Text-to-Image: About 28 sec with a 5070ti, 56 sec with a 5060ti (2nd gen/warm)
