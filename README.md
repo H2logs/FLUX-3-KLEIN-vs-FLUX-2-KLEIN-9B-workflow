@@ -12,4 +12,3 @@ Performance (1024x1024) Image-to-Image: About 35 sec with a 5070ti, 70 sec with 
 
 The 2 workflows generate a big image with the 2 images and the model's name on it. So you can easily share your results on social networks.
 
-Some results with prompts: https://h2logs.substack.com/p/flux-3-klein-vs-flux-2-klein-9b
